@@ -63,7 +63,7 @@ body {
         width: 100%;
         background: white;
         border-bottom: 1px solid #ccc;
-        border-top: 5px solid #F13E3E;
+        border-top: 5px solid #09A330;
         #logo {
             width: 30%;
             font-size: 30px;
@@ -115,7 +115,7 @@ body {
                         color: #444;
                         transition: 0.3s all;
                         &:hover {
-                            color: #F13E3E;
+                            color: #09A330;
                         }
                     }
                 }
@@ -124,7 +124,7 @@ body {
     }
     #slider {
         width: 100%;
-        background: #F13E3E;
+        background: #09A330;
         color: white;
         text-shadow: 0px 0px 5px #444;
         h1 {
